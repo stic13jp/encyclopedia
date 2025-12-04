@@ -1,3 +1,3 @@
 ## pixiv
 
-[https://www.pixiv.net/](pixiv.md)
+[https://www.pixiv.net/](pixiv)
