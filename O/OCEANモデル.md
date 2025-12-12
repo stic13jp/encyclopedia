@@ -6,3 +6,5 @@
 - Extraversion　外向性
 - Agreeableness　協調性
 - Neuroticism　神経症傾向
+
+#心理学
